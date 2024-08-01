@@ -1,0 +1,232 @@
+.food-munch-logo{
+    width:80px;
+    height:60px
+}
+#nav-item1{
+    color: #323f4b;
+    font-family:"Roboto";
+}
+#nav-item2{
+    color: #323f4b;
+    font-family:"Roboto";
+}
+#nav-item3{
+    color: #323f4b;
+    font-family:"Roboto";
+}
+#nav-item4{
+    color: #323f4b;
+    font-family:"Roboto";
+}
+.banner-section-bottom{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size:cover;
+    height : 100vh;
+}
+.banner-heading{
+    font-size:40px;
+    font-family : "Roboto";
+    color : white;
+}
+.banner-para{
+    color:white;
+    font-family:"Roboto";
+    font-size:26px;
+}
+
+.content-but{
+    border-radius : 8px;
+    border-width: 0px;
+    color:white;
+    background-color: #d0b200;
+    width:130px;
+    height:45px;
+    margin-right: 10px;
+}
+.content-have{
+    border-radius : 8px;
+    border-width: 0px;
+    color:#d0b200;
+    background-color:transparent;
+    width:130px;
+    height:45px;
+    border-radius : 8px;
+    border-width: 1px;
+    border-style:solid;
+    border-color:#d0b200;
+}
+.wcu-section{
+    background-color:#f9fbfe;
+}
+.wcu-heading{
+    color:rgb(57, 51, 51);
+    font-family:"Roboto";
+    font-weight:700;
+    font-size:35px;
+}
+.wcu-para{
+    color:#5a7184;
+    font-family:"Roboto";
+    font-size:25px;
+}
+.wcu-card{
+    text-align:center;
+    border-radius:10px;
+    background-color:#f9fbfe;
+    border-width:1px;
+    border-color:rgb(200, 209, 218);
+
+}
+.dining-logo{
+    width:70px;
+    height:65px;
+}
+.card-heading{
+    color:black;
+    font-family:"Roboto";
+    font-size:24px;
+}
+.card-para{
+    font-family:"Roboto";
+    color:#686d76;
+    font-size:16px;
+}
+.link{
+    font-style:italic;
+    font-weight:700;
+    color:black;
+
+}
+.explore-cont{
+    background-color:white;
+    width : 100vw;
+    background-size:cover;
+}
+.Explore-heading{
+    font-family:"Roboto";
+    font-weight:bold;
+    font-size:36px;
+    color:rgb(42, 42, 54);
+}
+.explore.card{
+    background-color:rgb(253, 247, 247);
+    border-radius:16px;
+    border-width:0.5px;
+
+}
+.img1{
+    border-radius:16px;
+}
+.menu-head{
+    font-family:"Roboto";
+    font-size:20px;
+    color:rgb(36, 31, 31);
+}
+.menu-link{
+    color: #FE9900;
+    font-size:16px;
+    font-family:"Roboto";
+
+}
+.food-munch{
+    background-color:white;
+    background-size:cover;
+    width:100vw;
+}
+.food-munch-img{
+    width:270px;
+}
+.food-munch-head{
+    font-family:"Roboto";
+    font-weight:700;
+    color:#333d46;
+    font-size:28px;
+}
+.food-munch-para{
+    font-family:"Roboto";
+    font-size:16px;
+    color:#787e89;
+}
+.food-munch-button{
+    background-image:linear-gradient(to bottom,rgb(222, 179, 101),rgb(255, 217, 0));
+    color:white;
+    text-align:center;
+    font-size:16px;
+    width:125px;
+    height:45px;
+    border-radius:6px;
+    border-width:0px;
+    padding:6px;
+}
+.delivery-payment{
+    background-color:white;
+    background-size:cover;
+    width:100vw;
+}
+.Delivery-payment-img{
+    width:270px;
+}
+.delivery-payment-head{
+    font-family:"Roboto";
+    font-weight:700;
+    color:#333d46;
+    font-size:28px;
+}
+.delivery-payment-para{
+    font-family:"Roboto";
+    font-size:16px;
+    color:#787e89;
+}
+.payment-card{
+    width :50px;
+    height :50px;
+    margin-right:28px;
+}
+
+.thanking-customer-back{
+    background-image: radial-gradient(#fff8db, #ffc803);
+}
+.thanking-cutomer-img{
+    width:270px;
+    margin-bottom : 25px;
+}
+.tanking-customer-title{
+    font-size:28px;
+    color:#fae38c;
+}
+.Follow-us-section{
+    background-color: white;
+}
+.follow-us-heading{
+    text-align:center;
+    color:#30343c;
+    font-family:"Roboto";
+    font-weight:700;
+}
+.follow-us-card{
+    text-align:center;
+    border-radius:50%;
+    background-color: #faf7e8;
+    width:80px;
+    height:80px;
+    margin:15px;
+    padding-top:22px;
+    padding-left:14px;
+    padding-right:16px;
+    padding-bottom:22px;
+}
+.icon{
+    color:#d0b200;
+    font-size:35px;
+}
+.food-munch-end{
+    background-color:#27435c;
+}
+.food-munch-head1{
+    font-weight:600;
+    color:#a6afc0;
+}
+.food-munch-para1{
+    color:#a6afc0;
+    font-size:15px;
+}
